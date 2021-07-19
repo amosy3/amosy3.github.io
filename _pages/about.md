@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a PhD student at Bar Ilan University, working at ChechikLab under the supervision of <a href="https://chechiklab.biu.ac.il/~gal/"> Prof. Gal Chechik</a> and <a href="https://u.cs.biu.ac.il/~porately/"> Prof. Ely Porat </a> . My main research interests are domain adaptation and adversarial examples.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I hold an B.A. in Physics and Mathematics from The Hebrow University of Jerusalem, and M.Sc. in Electrical Engineering from Tel Aviv University.
