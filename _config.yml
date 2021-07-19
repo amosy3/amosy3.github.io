@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ohad Amosy"
-  avatar : "/assets/images/amosy.jpg"
+  avatar : "/assets/images/smile.png"
   bio    : "PhD Student at BIU // Deep Learning Researcher"
   links:
     - label: "Website"
