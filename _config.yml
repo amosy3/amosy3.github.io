@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/smile.png"
   bio    : "PhD Student at BIU // Deep Learning Researcher"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: ""https://amosy3.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amosy3"
