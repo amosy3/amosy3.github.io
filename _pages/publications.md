@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/images/MUST.PNG" width="550" />
+  <img src="/assets/images/MUST.PNG" width="450" />
 </p>
 <b>Coupled Training for Multi-Source Domain Adaptation.</b>
 <br>
