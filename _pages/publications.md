@@ -17,7 +17,7 @@ author_profile: true
 <br>
 [[paper]](https://arxiv.org/abs/2010.10054) 
 [[code]](https://github.com/amosy3/MUST)
-[[bibtex]](./bib/MUST.bib)
+[[bibtex]](/bib/MUST.bib)
 </span>
 
 ---
@@ -31,7 +31,7 @@ author_profile: true
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
 <br>
-[[paper]](./papers/EXAID.pdf) 
+[[paper]](/papers/EXAID.pdf) 
 [[code]](https://github.com/amosy3/EXAID)
-[[bibtex]](./bib/pfedhn.bib)
+[[bibtex]](/bib/pfedhn.bib)
 </span>
