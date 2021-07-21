@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="./images/EXAID.PNG" width="550" />
+  <img src="/assets/images/EXAID.PNG" width="550" />
 </p>
 <b>Using Explainability To Detect Adversarial Examples.</b>
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
+<br>
 [[paper]](./papers/EXAID.pdf) 
 [[code]](https://github.com/amosy3/EXAID)
 [[bibtex]](./bib/pfedhn.bib)
