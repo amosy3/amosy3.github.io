@@ -16,7 +16,7 @@ author_profile: true
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
 <br>
 [[paper]](https://arxiv.org/abs/2010.10054) 
-#[[code]](https://github.com/amosy3/MUST)
+[[code]](https://github.com/amosy3/MUST)
 [[bibtex]](./bib/MUST.bib)
 </span>
 
