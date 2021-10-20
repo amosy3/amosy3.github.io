@@ -14,7 +14,7 @@ Coupled Training for Multi-Source Domain Adaptation (Accepted to <b>WACV2022</b>
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
 <br>
-[[paper]](/papers/must.pdf) #https://arxiv.org/abs/2010.10054
+[[paper]](/papers/must.pdf) <!-- https://arxiv.org/abs/2010.10054 -->
 [[code]](https://github.com/amosy3/MUST)
 [[bibtex]](/bib/MUST.bib)
 </span>
