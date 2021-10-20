@@ -8,13 +8,13 @@ author_profile: true
 <p align="center">
   <img src="/assets/images/MUST.PNG" width="450" />
 </p>
-<b>Coupled Training for Multi-Source Domain Adaptation.</b>
+Coupled Training for Multi-Source Domain Adaptation (Accepted to <b>WACV2022</b>)
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
 <br>
-[[paper]](https://arxiv.org/abs/2010.10054) 
+[[paper]](/papers/must.pdf) #https://arxiv.org/abs/2010.10054
 [[code]](https://github.com/amosy3/MUST)
 [[bibtex]](/bib/MUST.bib)
 </span>
@@ -24,7 +24,7 @@ author_profile: true
 <p align="center">
   <img src="/assets/images/EXAID.PNG" width="550" />
 </p>
-<b>Using Explainability To Detect Adversarial Examples.</b>
+Using Explainability To Detect Adversarial Examples
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
