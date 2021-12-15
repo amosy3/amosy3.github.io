@@ -6,6 +6,23 @@ author_profile: true
 ---
 
 <p align="center">
+  <img src="/assets/images/ITPFL.PNG" width="450" />
+</p>
+Inference-Time Personalized Federated Learning
+<br>
+<span style="font-size:.8em;">
+[Ohad Amosy](https://amosy3.github.io/webpage/), 
+[Gal Eyal],
+[Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
+<br>
+[[paper]](/papers/must.pdf) <!-- https://arxiv.org/abs/2111.08356 -->
+[[code]](https://github.com/amosy3/ITPFL)
+[[bibtex]](/bib/ITPFL.bib)
+</span>
+
+---
+
+<p align="center">
   <img src="/assets/images/MUST.PNG" width="450" />
 </p>
 Coupled Training for Multi-Source Domain Adaptation (Accepted to <b>WACV2022</b>)
