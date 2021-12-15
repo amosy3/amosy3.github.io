@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/images/ITPFL.PNG" width="450" />
+  <img src="/assets/images/ITPFL.png" width="450" />
 </p>
 Inference-Time Personalized Federated Learning
 <br>
