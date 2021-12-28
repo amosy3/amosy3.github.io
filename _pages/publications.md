@@ -15,7 +15,7 @@ Inference-Time Personalized Federated Learning
 [Gal Eyal],
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
 <br>
-[[paper]](/papers/must.pdf) <!-- https://arxiv.org/abs/2111.08356 -->
+[[paper]](/papers/itpfl.pdf) <!-- https://arxiv.org/abs/2111.08356 -->
 [[code]](https://github.com/amosy3/ITPFL)
 [[bibtex]](/bib/ITPFL.bib)
 </span>
