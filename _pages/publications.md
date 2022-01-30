@@ -34,6 +34,7 @@ Coupled Training for Multi-Source Domain Adaptation (Accepted to <b>WACV2022</b>
 [[paper]](/papers/must.pdf) <!-- https://arxiv.org/abs/2010.10054 -->
 [[code]](https://github.com/amosy3/MUST)
 [[bibtex]](/bib/MUST.bib)
+[[video]](https://youtu.be/U8hAB-TwWhQ)
 </span>
 
 ---
