@@ -13,7 +13,7 @@ Iterative-Free Quantum Approximate Optimization Algorithm Using Neural Networks
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy\*](https://amosy3.github.io/webpage/), 
-[Tamuz Danzig],
+[Tamuz Danzig\*],
 [Ely Porat],
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
 [Adi Makmal]
