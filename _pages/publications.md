@@ -13,10 +13,10 @@ Iterative-Free Quantum Approximate Optimization Algorithm Using Neural Networks
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy\*](https://amosy3.github.io/webpage/), 
-[Tamuz Danzig\*],
-[Ely Porat],
+Tamuz Danzig\*,
+[Ely Porat](https://u.cs.biu.ac.il/~porately/),
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
-[Adi Makmal]
+Adi Makmal
 <br>
 [[paper]](/papers/QAOA_init.pdf)
 </span>
@@ -30,7 +30,7 @@ Inference-Time Personalized Federated Learning
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
-[Gal Eyal],
+Gal Eyal,
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
 <br>
 [[paper]](/papers/itpfl.pdf) <!-- https://arxiv.org/abs/2111.08356 -->
