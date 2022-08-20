@@ -3,6 +3,24 @@ title: "Publications"
 layout: archive
 permalink: /publications/
 author_profile: true
+
+---
+
+<p align="center">
+  <img src="/assets/images/QAOA_init.png" width="450" />
+</p>
+Iterative-Free Quantum Approximate Optimization Algorithm Using Neural Networks
+<br>
+<span style="font-size:.8em;">
+[Ohad Amosy*](https://amosy3.github.io/webpage/), 
+[Tamuz Danzig*],
+[Ely Porat],
+[Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
+[Adi Makmal]
+<br>
+[[paper]](/papers/QAOA_init.pdf)
+</span>
+
 ---
 
 <p align="center">
