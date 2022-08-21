@@ -19,6 +19,8 @@ Tamuz Danzig\*,
 Adi Makmal
 <br>
 [[paper]](/papers/QAOA_init.pdf)
+[[code]](https://github.com/amosy3/IterativeFreeQAOA)
+
 </span>
 
 ---
