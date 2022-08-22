@@ -25,6 +25,25 @@ Adi Makmal
 ---
 
 <p align="center">
+  <img src="/assets/images/padahn.png" width="450" />
+</p>
+Example-based Hypernetworks for Out-of-Distribution Generalization
+<br>
+<span style="font-size:.8em;">
+Tomer Volk\*,
+Eyal Ben-David\*,
+[Ohad Amosy](https://amosy3.github.io/webpage/), 
+[Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
+[Roi Reichart](https://iew.technion.ac.il/~roiri/)
+<br>
+[[paper]](/papers/padahn.pdf)
+[[code]](https://github.com/TomerVolk/Hyper-PADA)
+</span>
+
+
+---
+
+<p align="center">
   <img src="/assets/images/ITPFL.png" width="450" />
 </p>
 Inference-Time Personalized Federated Learning
