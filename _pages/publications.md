@@ -44,7 +44,7 @@ Eyal Ben-David\*,
 ---
 
 <p align="center">
-  <img src="/assets/images/ITPFL.png" width="450" />
+  <img src="/assets/images/UPFL.png" width="450" />
 </p>
 Inference-Time Personalized Federated Learning
 <br>
