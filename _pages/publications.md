@@ -38,6 +38,8 @@ Eyal Ben-David\*,
 <br>
 [[paper]](/papers/padahn.pdf)
 [[code]](https://github.com/TomerVolk/Hyper-PADA)
+[[bibtex]](/bib/padahn.bib)
+
 </span>
 
 
