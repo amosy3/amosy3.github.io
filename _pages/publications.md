@@ -25,7 +25,7 @@ Adi Makmal
 ---
 
 <p align="center">
-  <img src="/assets/images/padahn.png" width="450" />
+  <img src="/assets/images/padahn.png" width="550" />
 </p>
 Example-based Hypernetworks for Out-of-Distribution Generalization
 <br>
