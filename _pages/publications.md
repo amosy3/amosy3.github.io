@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/images/t2m.png" width="550" />
+  <img src="/assets/images/t2m.png" width="650" />
 </p>
 Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions
 <br>
