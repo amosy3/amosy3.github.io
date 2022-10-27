@@ -7,6 +7,24 @@ author_profile: true
 ---
 
 <p align="center">
+  <img src="/assets/images/t2m.png" width="450" />
+</p>
+Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions
+<br>
+<span style="font-size:.8em;">
+[Ohad Amosy](https://amosy3.github.io/webpage/),
+Tomer Volk,
+Eyal Ben-David,
+[Roi Reichart](https://iew.technion.ac.il/~roiri/)
+[Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
+<br>
+[[paper]](/papers/t2m.pdf)
+[[code]](https://github.com/amosy3/Text2Model)
+</span>
+
+---
+
+<p align="center">
   <img src="/assets/images/QAOA_init.png" width="450" />
 </p>
 Iterative-Free Quantum Approximate Optimization Algorithm Using Neural Networks
