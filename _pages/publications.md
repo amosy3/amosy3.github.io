@@ -65,7 +65,7 @@ Eyal Ben-David\*,
 <p align="center">
   <img src="/assets/images/UPFL.png" width="450" />
 </p>
-Inference-Time Personalized Federated Learning
+Late to the party? On-demand unlabeled personalized federated learning (Accepted to <b>WACV2024</b>)
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
