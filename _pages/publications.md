@@ -39,13 +39,29 @@ Adi Makmal
 [[paper]](/papers/QAOA_init.pdf)
 [[code]](https://github.com/amosy3/IterativeFreeQAOA)
 </span>
+---
+
+<p align="center">
+  <img src="/assets/images/UPFL.png" width="450" />
+</p>
+Late to the party? On-demand unlabeled personalized federated learning (Accepted to <b>WACV 2024</b>)
+<br>
+<span style="font-size:.8em;">
+[Ohad Amosy](https://amosy3.github.io/webpage/), 
+Gal Eyal,
+[Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
+<br>
+[[paper]](/papers/itpfl.pdf) <!-- https://arxiv.org/abs/2111.08356 -->
+[[code]](https://github.com/amosy3/ITPFL)
+[[bibtex]](/bib/ITPFL.bib)
+</span>
 
 ---
 
 <p align="center">
   <img src="/assets/images/padahn.png" width="750" />
 </p>
-Example-based Hypernetworks for Out-of-Distribution Generalization
+Example-based Hypernetworks for Out-of-Distribution Generalization (Accepted to the Findings of <b>EMNLP 2023</b>)
 <br>
 <span style="font-size:.8em;">
 Tomer Volk\*,
@@ -63,26 +79,9 @@ Eyal Ben-David\*,
 ---
 
 <p align="center">
-  <img src="/assets/images/UPFL.png" width="450" />
-</p>
-Late to the party? On-demand unlabeled personalized federated learning (Accepted to <b>WACV2024</b>)
-<br>
-<span style="font-size:.8em;">
-[Ohad Amosy](https://amosy3.github.io/webpage/), 
-Gal Eyal,
-[Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
-<br>
-[[paper]](/papers/itpfl.pdf) <!-- https://arxiv.org/abs/2111.08356 -->
-[[code]](https://github.com/amosy3/ITPFL)
-[[bibtex]](/bib/ITPFL.bib)
-</span>
-
----
-
-<p align="center">
   <img src="/assets/images/MUST.PNG" width="450" />
 </p>
-Coupled Training for Multi-Source Domain Adaptation (Accepted to <b>WACV2022</b>)
+Coupled Training for Multi-Source Domain Adaptation (Accepted to <b>WACV 2022</b>)
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy](https://amosy3.github.io/webpage/), 
