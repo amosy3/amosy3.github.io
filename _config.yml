@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ohad Amosy"
   avatar : "/assets/images/smile.png"
-  bio    : "&#128640; Chief Data Scientist <br> &#128269; ML Researcher <br> &U+1F393; Ph.D."
+  bio    : "&#128640; Chief Data Scientist <br> &#128269; ML Researcher <br> &#x1F393; Ph.D."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
