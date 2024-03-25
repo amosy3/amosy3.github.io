@@ -3,7 +3,7 @@ permalink: /main_page/
 title: "Main_page"
 ---
 I lead a talented team of 30 researchers, driving forward our organization’s most ambitious endeavors.
-
+<br>
 I hold a B.A. in Physics and Mathematics from The Hebrew University of Jerusalem, 
 an M.Sc. in Electrical Engineering from Tel Aviv University, 
 and a Ph.D. in Computer Science from Bar Ilan University. 
