@@ -27,7 +27,7 @@ Eyal Ben-David,
 <p align="center">
   <img src="/assets/images/QAOA_init.png" width="450" />
 </p>
-Iterative-Free Quantum Approximate Optimization Algorithm Using Neural Networks
+Iterative-Free Quantum Approximate Optimization Algorithm Using Neural Networks (Accepted to <b>Quantum Machine Intelligence 2024</b>)
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy\*](https://amosy3.github.io/webpage/), 
