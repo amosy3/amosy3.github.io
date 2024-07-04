@@ -36,7 +36,7 @@ Tamuz Danzig\*,
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
 Adi Makmal
 <br>
-[[paper]](/papers/QAOA_init.pdf)
+[[paper]](https://link.springer.com/article/10.1007/s42484-024-00159-y)
 [[code]](https://github.com/amosy3/IterativeFreeQAOA)
 </span>
 
