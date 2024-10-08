@@ -9,7 +9,7 @@ author_profile: true
 <p align="center">
   <img src="/assets/images/t2m.png" width="650" />
 </p>
-Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions
+Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions (Accepted to <b>EMNLP 2024</b>)
 <br>
 <span style="font-size:.8em;">
 [Ohad Amosy](https://amosy3.github.io/webpage/),
@@ -62,7 +62,7 @@ Gal Eyal,
 <p align="center">
   <img src="/assets/images/padahn.png" width="750" />
 </p>
-Example-based Hypernetworks for Out-of-Distribution Generalization (Accepted to the Findings of <b>EMNLP 2023</b>)
+Example-based Hypernetworks for Out-of-Distribution Generalization (Accepted to <b>EMNLP 2023</b>)
 <br>
 <span style="font-size:.8em;">
 Tomer Volk\*,
