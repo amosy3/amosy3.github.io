@@ -27,7 +27,7 @@ Itzhak Aviv,
 <p align="center">
   <img src="/assets/images/LIBERTy.png" width="650" />
 </p>
-LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals (Accepted to <b>EMNLP 2026</b>)
+LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals (Accepted to <b>ACL 2026</b>)
 <br>
 <span style="font-size:.8em;">
 Gilat Toker, 
