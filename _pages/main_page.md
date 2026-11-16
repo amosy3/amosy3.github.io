@@ -11,8 +11,6 @@ My main research interests are generalization and adaptation to new distribution
 <h4>Recent Updates</h4>
 <hr>
 
-<ul><li><a href="https://link.springer.com/article/10.1007/s42484-024-00159-y"> Iterative-Free Quantum Approximate Optimization Algorithm Using Neural Networks </a> accepted to <strong>Quantum Machine Intelligence 2024</strong></li></ul>
+<ul><li><a href="https://www.mdpi.com/2504-446X/10/11/847"> On-Device Acoustic Detection of DJI Drones on Android Smartphones with an Audible-Onset Timing Reference </a> accepted to <strong>Drones 2026</strong></li></ul>
 
-<ul><li><a href="https://openaccess.thecvf.com/content/WACV2024/html/Amosy_Late_to_the_Party_On-Demand_Unlabeled_Personalized_Federated_Learning_WACV_2024_paper.html"> Late to the party? On-demand unlabeled personalized federated learning </a> accepted to <strong>WACV 2024</strong></li></ul>
-
-<ul><li><a href="https://arxiv.org/abs/2210.15182"> Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions </a> accepted to <strong>EMNLP 2024</strong></li></ul>
+<ul><li><a href="https://aclanthology.org/2026.findings-acl.399/"> LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals </a> accepted to <strong>ACL 2026</strong></li></ul>
