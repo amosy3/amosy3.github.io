@@ -31,7 +31,7 @@ LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs 
 <br>
 <span style="font-size:.8em;">
 Gilat Toker, 
-Nitay Calderon
+Nitay Calderon,
 [Ohad Amosy](https://amosy3.github.io/webpage/),
 [Roi Reichart](https://iew.technion.ac.il/~roiri/),
 <br>
