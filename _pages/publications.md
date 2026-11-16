@@ -7,6 +7,24 @@ author_profile: true
 ---
 
 <p align="center">
+  <img src="/assets/images/Drones.png" width="650" />
+</p>
+On-Device Acoustic Detection of DJI Drones on Android Smartphones with an Audible-Onset Timing Reference (Accepted to <b>Drones 2026</b>)
+<br>
+<span style="font-size:.8em;">
+Omer Leibovitch,
+Eran Dahan,
+Ofir Joseph,
+Itzhak Aviv,
+[Ohad Amosy](https://amosy3.github.io/webpage/),
+<br>
+[[paper]](https://www.mdpi.com/2504-446X/10/11/847)
+</span>
+
+
+---
+
+<p align="center">
   <img src="/assets/images/LIBERTy.png" width="650" />
 </p>
 LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals (Accepted to <b>EMNLP 2026</b>)
