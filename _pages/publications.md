@@ -7,6 +7,24 @@ author_profile: true
 ---
 
 <p align="center">
+  <img src="/assets/images/LIBERTy.png" width="650" />
+</p>
+LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals (Accepted to <b>EMNLP 2026</b>)
+<br>
+<span style="font-size:.8em;">
+Gilat Toker, 
+Nitay Calderon
+[Ohad Amosy](https://amosy3.github.io/webpage/),
+[Roi Reichart](https://iew.technion.ac.il/~roiri/),
+<br>
+[[paper]](https://aclanthology.org/2026.findings-acl.399/)
+[[code]](https://github.com/GilatToker/Liberty-benchmark)
+</span>
+
+
+---
+
+<p align="center">
   <img src="/assets/images/t2m.png" width="650" />
 </p>
 Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions (Accepted to <b>EMNLP 2024</b>)
