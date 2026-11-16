@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/images/Drones.png" width="450" />
+  <img src="/assets/images/Drones.png" width="350" />
 </p>
 On-Device Acoustic Detection of DJI Drones on Android Smartphones with an Audible-Onset Timing Reference (Accepted to <b>Drones 2026</b>)
 <br>
@@ -133,7 +133,7 @@ Coupled Training for Multi-Source Domain Adaptation (Accepted to <b>WACV 2022</b
 ---
 
 <p align="center">
-  <img src="/assets/images/EXAID.PNG" width="550" />
+  <img src="/assets/images/EXAID.PNG" width="650" />
 </p>
 Using Explainability To Detect Adversarial Examples
 <br>
