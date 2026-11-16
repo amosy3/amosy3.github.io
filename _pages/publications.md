@@ -16,7 +16,7 @@ Omer Leibovitch,
 Eran Dahan,
 Ofir Joseph,
 Itzhak Aviv,
-[Ohad Amosy](https://amosy3.github.io/webpage/),
+[Ohad Amosy](https://amosy3.github.io/webpage/)
 <br>
 [[paper]](https://www.mdpi.com/2504-446X/10/11/847)
 </span>
@@ -33,7 +33,7 @@ LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs 
 Gilat Toker, 
 Nitay Calderon,
 [Ohad Amosy](https://amosy3.github.io/webpage/),
-[Roi Reichart](https://iew.technion.ac.il/~roiri/),
+[Roi Reichart](https://iew.technion.ac.il/~roiri/)
 <br>
 [[paper]](https://aclanthology.org/2026.findings-acl.399/)
 [[code]](https://github.com/GilatToker/Liberty-benchmark)
@@ -52,7 +52,7 @@ Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions
 Tomer Volk,
 Eyal Ben-David,
 [Roi Reichart](https://iew.technion.ac.il/~roiri/)
-[Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
+[Gal Chechik](https://chechiklab.biu.ac.il/~gal/)
 <br>
 [[paper]](/papers/t2m.pdf)
 [[code]](https://github.com/amosy3/Text2Model)
