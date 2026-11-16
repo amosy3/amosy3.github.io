@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/images/Drones.png" width="650" />
+  <img src="/assets/images/Drones.png" width="450" />
 </p>
 On-Device Acoustic Detection of DJI Drones on Android Smartphones with an Audible-Onset Timing Reference (Accepted to <b>Drones 2026</b>)
 <br>
