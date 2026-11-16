@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ohad Amosy"
   avatar : "/assets/images/smile.png"
-  bio    : "🔬 Applied AI Research Group Leader <br> 🧠 LLMs, Multi-Agent Systems & Evaluations <br> 🎓 Ph.D. in CS"
+  bio    : "🔬 AI Research Group Leader <br> 🧠 LLMs & Multi-Agent Systems <br> 🎓 Ph.D. in CS"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
